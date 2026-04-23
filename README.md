@@ -1,32 +1,31 @@
-# Grace Pendo | Business Intelligence Portfolio
-
-Analytical and detail-oriented student specializing in **Strategic Financial Auditing** and **Inventory Optimization**. This repository contains a portfolio of audits designed to drive growth and liquidity.
+# Grace Pendo | Business Intelligence & Financial Analyst
 
 ---
 
-## 🚀 Professional Audits (Project Order)
+## 📄 Professional Documentation
+* **[Click Here to View My Full Resume (PDF)](./00_Grace_Pendo_Financial_Analyst_Resume.pdf)**
+
+> **Strategic Objective:** Analytical student specializing in **Strategic Financial Auditing** and **Inventory Optimization**. I turn raw financial data into executive-level dashboards that drive business growth.
+
+---
+
+## 🚀 Professional Audits & Projects
 
 ### 1. Nairobi Tech & Accessories Strategic Audit
 * **Impact:** Reallocated **Ksh 50,000** to high-demand inventory.
-* **Outcome:** Established a safety fund and increased daily cash flow.
+![Dashboard](./01_Nairobi_Tech_Strategic_Audit.jpg)
 
 ### 2. Nairobi Lions Basketball Academy Recovery
-* **Impact:** Identified **Ksh 23,000** in non-essential spending.
-* **Outcome:** Secured operations and maintained a **Ksh 3,000 surplus**.
+* **Impact:** Identified **Ksh 23,000** in savings to secure player retention.
+![Dashboard](./02_Nairobi_Lions_Academy_Recovery.jpg)
 
 ### 3. Retail Profitability & Pricing Strategy
-* **Impact:** Optimized product mix to achieve a **23.5% average profit margin**.
-* **Outcome:** Balanced low-margin traffic drivers with high-margin profitability.
+* **Impact:** Optimized product mix for a **23.5% average profit margin**.
+![Dashboard](./03_Retail_Profitability_Strategy.jpg)
 
 ### 4. Inventory & Cash Flow Optimization
-* **Impact:** Recovered **Ksh 30,000** in operational capital.
-* **Outcome:** Reduced "Dead Stock" exposure by **80%**.
+* **Impact:** Reduced "Dead Stock" exposure by **80%**.
+![Dashboard](./04_Inventory_Cash_Flow_Optimization.jpg)
 
 ---
-
-## 📄 Documentation
-* **[Full Professional Resume (PDF)](./Grace_Pendo_Full_Detail_XL.pdf)**
-* **Core Skills:** Excel (IF Logic, Pivot Tables), Canva (Data Viz), ROI Analysis.
-
----
-**Career Goal:** Pursuing Business Intelligence & Analytics (International Pathway - Canada).
+**Goal:** Business Intelligence & Analytics | International Pathway (Canada)
